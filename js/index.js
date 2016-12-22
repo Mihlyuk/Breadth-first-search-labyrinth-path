@@ -1,5 +1,5 @@
 (function (root) {
-    var map = root.maze.MAZE_Y;
+    var map = root.maze.MAZE_51;
 
     document.querySelector('.outer').appendChild( root.maze.createMap(map) );
 

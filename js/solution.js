@@ -1,9 +1,5 @@
 (function (root) {
     var EMPTY = root.maze.EMPTY;
-    var WALL = root.maze.WALL;
-    var PATH = root.maze.PATH;
-    var CURRENT = root.maze.CURRENT;
-
     /**
      * Функция создает волну, добавляет её в arrWaves, помечает клетки как проверенные.
      *
